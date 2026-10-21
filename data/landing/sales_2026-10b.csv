@@ -1,0 +1,10 @@
+order_id,order_date,store_id,store_name,barangay,city,product_id,product_name,category,quantity,unit_price
+ORD-2001,05/10/2026,S004,Jerold Mini Mart,Brgy. Abonagan,Malasiqui,P007,Chocolate wafer,Snacks,5,12
+ORD-2002,05/10/2026,S004,Jerold Mini Mart,Brgy. Abonagan,Malasiqui,P008,Bottled water 500ml,Beverages,8,15
+ORD-2003,05/10/2026,S004,Jerold Mini Mart,Brgy. Abonagan,Malasiqui,P009,Laundry detergent sachet,Household,4,10
+ORD-2004,05/10/2026,S004,Jerold Mini Mart,Brgy. Abonagan,Malasiqui,P010,Potato chips,Snacks,6,20
+ORD-2005,05/10/2026,S004,Jerold Mini Mart,Brgy. Abonagan,Malasiqui,P011,Shampoo sachet,Personal Care,3,8
+ORD-2006,05/10/2026,S004,Jerold Mini Mart,Brgy. Abonagan,Malasiqui,P012,Crackers,Snacks,7,9
+ORD-2007,05/10/2026,S004,Jerold Mini Mart,Brgy. Abonagan,Malasiqui,P013,Energy drink,Beverages,2,
+ORD-2006,05/10/2026,S004,Jerold Mini Mart,Brgy. Abonagan,Malasiqui,P012,Crackers,Snacks,7,9
+ORD-2008,05/10/2026,S004,Jerold Mini Mart,Brgy. Abonagan,Malasiqui,P014,Gundam,Toys,1,9999

@@ -1,0 +1,18 @@
+# airflow logs
+/logs/
+
+# datalake
+/datalake/*
+!/datalake/raw/
+!/datalake/staged/
+/datalake/raw/*
+/datalake/staged/*
+!/datalake/raw/.gitkeep
+!/datalake/staged/.gitkeep
+
+# Local environment configuration
+.env
+
+# Python cache
+__pycache__/
+*.pyc
